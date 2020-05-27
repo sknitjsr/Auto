@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181611053152",
+    "firebase_url": "https://automata-f9e43.firebaseio.com",
+    "project_id": "automata-f9e43",
+    "storage_bucket": "automata-f9e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181611053152:android:9057425312cf6a156a4305",
+        "android_client_info": {
+          "package_name": "com.aaars.b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181611053152-1g2tflafm496mbrqr679vmv1ed6stlh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaars.b",
+            "certificate_hash": "29e371ed88f0d10d686df40c23acc9c8146830e3"
+          }
+        },
+        {
+          "client_id": "181611053152-e3fdn3793vp48sdmbn2q0qruto4v7gjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16GMuc6qEyT9HUlEboHsTFzo4QhYQUkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181611053152-e3fdn3793vp48sdmbn2q0qruto4v7gjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
